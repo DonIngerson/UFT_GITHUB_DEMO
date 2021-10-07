@@ -1,7 +1,7 @@
 ﻿
 '###########################################################################
 'Script Name: UFT_Get_All_Objects_Names-GitHub_Demo
-'Script Path: C:\Users\Donald Ingreson\Desktop\UFT_Get_All_Objects_Names-GitHub_Demo
+'Script Path: C:\Users\Donald Ingreson\Documents\GitHub\UFT_GITHUB_DEMO\UFT_Get_All_Objects_Names-GitHub_Demo
 'Description: Script gets list of all objects with names and stores in Global DataTable
 'JIRA JOMIS Type: N/A
 'JIRA JOMIS ID number: N/A
